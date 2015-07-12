@@ -1,3 +1,36 @@
 body {
-  padding-top: 50px;
+	padding-top: 50px;
+}
+
+.navbar-default {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#social-buttons {
+	font-size: 10em;
+}
+
+a.fa {
+	color: inherit;
+}
+
+a.fa:hover {
+	text-decoration: none;
+}
+
+a.fa-twitter:hover {
+	color: #55acee;
+}
+
+a.fa-facebook:hover {
+	color: #3b5999;
+}
+
+a.fa-linkedin:hover {
+	color: #0077b5;
+}
+
+a.fa-github:hover {
+	color: #000;
 }
