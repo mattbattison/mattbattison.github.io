@@ -2,7 +2,7 @@
 
 GitHub Pages Site
 
-https://mattbattison.uk/
+https://mattbattison.dev/
 
 ## Development
 
