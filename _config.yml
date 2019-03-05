@@ -17,3 +17,11 @@ theme: minima
 # Plugins
 plugins:
   - jekyll-feed
+
+# Excludes
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Jenkinsfile
+  - README.md
