@@ -12,4 +12,4 @@ This site uses [Bundler](https://bundler.io) to manage the [Ruby gems](https://r
 - To start the development server, run ```bundle exec jekyll serve```.
 - To create a production build in ```./_site```, run ```bundle exec jekyll build```.
 
-If you have access to a [Jenkins](https://jenkins.io) server, you can build the site using the included ```Jenkinsfile```.
+If you have access to a [Jenkins](https://jenkins.io) server, you can build the site and deploy it locally using the included ```Jenkinsfile```.
